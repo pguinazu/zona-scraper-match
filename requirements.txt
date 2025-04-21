@@ -1,2 +1,2 @@
-scrapy
+scrapy=2.12.0
 scrapy-cloudflare-middleware
